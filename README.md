@@ -4,6 +4,11 @@ Find as many words as posssible!
 ## Info
 
 This is a simple game I made where the objective of the game is to find as many words as possible from the given set of alphabets:
+<br><br><br>
 
 
-![anagaram](https://github.com/Moonshallow5/Anagram/assets/71621879/7fc8cc9c-0be5-4f33-b57a-ad49920bb21c)
+https://github.com/user-attachments/assets/c950e6bd-71b5-47c7-a1b8-f36b1ce6d0ca
+
+If you like this repo please ⭐ it!
+
+Thank you!
